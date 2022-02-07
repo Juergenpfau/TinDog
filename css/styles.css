@@ -109,3 +109,9 @@ margin-bottom: 1rem;
 .card-body{
   padding:5% 15%;
 }
+.footer{
+  background-color: white;}
+  #cta{
+    text-align:center;
+    background-color: #ef8172;
+  }
